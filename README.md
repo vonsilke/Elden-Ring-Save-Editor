@@ -1,10 +1,10 @@
-# Elden Ring Save Manager
+# Elden Ring Save Manager & Tracker
 
 <p align="center">
   <img src="./icon/icon.png">
 </p>
 
-Tool for managing and editing Elden Ring save files. Compatible with PC and PlayStation Save Wizard exported saves. 
+Tool for managing, editing and tracking Elden Ring save files. Compatible with PC and PlayStation Save Wizard exported saves.
 
 Supports game version 1.17.
 
@@ -54,8 +54,6 @@ More features will be added in future updates.
 ## Download
 
 Releases are published on [GitHub Releases](../../releases) and on Nexus Mods.
-
-The release archive contains the executable and an `assets/` folder holding the item icons and map tiles. Keep `assets/` next to the executable — the application reads them from disk and never downloads anything. The images are not stored in this repository because of their size.
 
 ## FAQ
 
